@@ -111,3 +111,7 @@ vmess链接和qrcode图片，支持通过用sz将qr图片传到本机。
 V2ray : [https://v2ray.com](https://v2ray.com)
 
 原作者: [雨落无声](https://github.com/YLWS-4617)
+
+接盘侠1: [tracyone](https://github.com/tracyone)
+
+接盘侠2: [leitbogioro](https://github.com/leitbogioro)
