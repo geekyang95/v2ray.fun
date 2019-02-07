@@ -42,17 +42,17 @@ V2ray控制脚本，向导式更改端口，加密方式，传输协议，享受
 ## 安装命令
 
 ```bash
-bash -c "$(curl -fsSL https://git.io/vpOeN)"
+bash -c "$(curl -fsSL https://git.io/fh9As)"
 ```
 
 ## 升级命令
 ```bash
-bash -c "$(curl -fsSL https://git.io/vpOex)"
+bash -c "$(curl -fsSL https://git.io/fh9AZ)"
 ```
 
 ## 卸载命令
 ```bash
-bash -c "$(curl -fsSL https://git.io/vpOep)"
+bash -c "$(curl -fsSL https://git.io/fh9AC)"
 ```
 
 
