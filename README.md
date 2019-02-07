@@ -1,7 +1,5 @@
 术业有专攻，一部分人一辈子都不会搞懂这些网络，但是他们仍然有权利自由地访问互联网，懂技术的人不一定可以通过技术改变世界。
 
-欢迎加入[telegram讨论群](https://t.me/vimchina)，欢迎你的任何建议，需求以及求助。
-
 <!-- vim-markdown-toc GFM -->
 
 * [V2ray.fun](#v2rayfun)
