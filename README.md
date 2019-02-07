@@ -110,14 +110,14 @@ vmess链接和qrcode图片，支持通过用sz将qr图片传到本机。
 
 ## 特别说明
 
-也可以先查看下本仓库的[wiki](https://github.com/tracyone/v2ray.fun/wiki)
+也可以先查看下本仓库的[wiki](https://github.com/leitbogioro/v2ray.fun/wiki)
 
 本程序遵循 GPL v3协议发布，请Fork保留源项目地址，谢谢！
 
 V2ray : [https://v2ray.com](https://v2ray.com)
 
-原作者: [雨落无声](https://github.com/YLWS-4617)
+一代目（已引退，正开发全新的v2ray.fun项目: https://github.com/FunctionClub/V2ray.Fun）: [雨落无声](https://github.com/YLWS-4617)
 
-接盘侠1（已引退）: [tracyone](https://github.com/tracyone)
+二代目（已引退）: [tracyone](https://github.com/tracyone)
 
-接盘侠2（在服役）: [leitbogioro](https://github.com/leitbogioro)
+三代目（在服役）: [leitbogioro](https://github.com/leitbogioro)
