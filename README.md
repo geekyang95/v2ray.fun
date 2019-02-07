@@ -102,6 +102,12 @@ bash -c "$(curl -fsSL https://git.io/fh9AC)"
 - 支持生成v2rayN(windows以及安卓) & Pepi(IOS) 客户端的
 vmess链接和qrcode图片，支持通过用sz将qr图片传到本机。
 
+**2019.2.7**
+
+- 由tracyone接手的v2ray.fun项目已被删除，本人稍作修改暂可继续使用。
+<b>Attention!</b>
+如果您安装了之前由tracyone编写的项目，请不要贸然使用全新安装的方式升级，否则会使您当前安装的v2ray配置文件被重设以至于无法正常工作！
+
 ## 特别说明
 
 也可以先查看下本仓库的[wiki](https://github.com/tracyone/v2ray.fun/wiki)
@@ -112,6 +118,6 @@ V2ray : [https://v2ray.com](https://v2ray.com)
 
 原作者: [雨落无声](https://github.com/YLWS-4617)
 
-接盘侠1: [tracyone](https://github.com/tracyone)
+接盘侠1（已引退）: [tracyone](https://github.com/tracyone)
 
-接盘侠2: [leitbogioro](https://github.com/leitbogioro)
+接盘侠2（在服役）: [leitbogioro](https://github.com/leitbogioro)
