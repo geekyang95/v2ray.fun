@@ -113,7 +113,3 @@ vmess链接和qrcode图片，支持通过用sz将qr图片传到本机。
 V2ray : [https://v2ray.com](https://v2ray.com)
 
 原作者: [雨落无声](https://github.com/YLWS-4617)
-
-# Buy me a coffee
-
-![donation](https://cloud.githubusercontent.com/assets/4246425/24827592/553bc732-1c7f-11e7-8207-284cccbc2e5c.jpg)
