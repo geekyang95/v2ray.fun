@@ -14,8 +14,8 @@
             "ip": null,
             "clients": [
                 {
-                    "id": "cc4f8d5b-967b-4557-a4b6-bde92965bc27",
-                    "alterId": 100,
+                    "id": "UUID_is_here",
+                    "alterId": 64,
                     "security": null
                 }
             ],
