@@ -30,5 +30,6 @@ elif choice == "3":
         os.remove(ad_rules_file)
         download_files(f_url = "https://raw.githubusercontent.com/ToutyRater/V2Ray-SiteDAT/master/geofiles/h2y.dat", f_name = "h2y.dat")
         move_files("h2y.dat", "/usr/bin/v2ray/")
+        writejson.WriteAD("on")
     else:
         print ("未找到广告过滤文件！")
