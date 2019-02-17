@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
-
-import readjson, writejson, os, utils
+import readjson, writejson, os
+from utils import (download_files, move_files)
 
 rules = readjson.ConfRouting[u"settings"][u"rules"]
 ad_rules_file = "/usr/bin/v2ray/h2y.dat"
