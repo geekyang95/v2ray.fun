@@ -16,7 +16,7 @@
                 {
                     "id": "UUID_is_here",
                     "alterId": 64,
-                    "security": null
+                    "security": "chacha20-poly1305"
                 }
             ],
             "detour": {
