@@ -18,10 +18,7 @@
                     "alterId": 64,
                     "security": "chacha20-poly1305"
                 }
-            ],
-            "detour": {
-                "to": "dynamicPort"
-            }
+            ]
         },
         "streamSettings": {
             "security": "",
