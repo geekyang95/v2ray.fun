@@ -63,6 +63,7 @@ ad_filter_supplement(){
     cd /usr/bin/v2ray
     wget ${ad_filter}
 }
+ad_filter_supplement
 service v2ray restart
 
 # auto open port after start
