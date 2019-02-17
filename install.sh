@@ -1,6 +1,8 @@
 #!/bin/bash
 export PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 
+ad_filter="https://raw.githubusercontent.com/ToutyRater/V2Ray-SiteDAT/master/geofiles/h2y.dat"
+
 # 检查是否为Root
 [ $(id -u) != "0" ] && { echo "Error: You must be root to run this script"; exit 1; }
 
@@ -57,6 +59,10 @@ sed -i "s/cc4f8d5b-967b-4557-a4b6-bde92965bc27/${UUID}/g" /etc/v2ray/config.json
 sed -i "s/12345/${PORT}/g" "/etc/v2ray/config.json"
 python /usr/local/v2ray.fun/genclient.py
 python /usr/local/v2ray.fun/openport.py
+ad_filter_supplement(){
+    cd /usr/bin/v2ray
+    wget ${ad_filter}
+}
 service v2ray restart
 
 # auto open port after start
