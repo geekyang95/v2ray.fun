@@ -108,6 +108,11 @@ vmess链接和qrcode图片，支持通过用sz将qr图片传到本机。
 <b>Attention!</b>
 如果您安装了之前由tracyone编写的项目，请不要贸然使用全新安装的方式升级，否则会使您当前安装的v2ray配置文件被重设以至于无法正常工作！
 
+**2019.2.17**
+
+- 修改广告过滤功能实现的方式，将v2ray所依赖的 config.json 配置文件中冗长的域名列表去除，采用外挂[ToutyRater](https://github.com/ToutyRater) 制作的 h2y.dat 文件中的广告过滤规则，不但减轻了操作 config.json 文件的压力，还让广告过滤列表可以随时方便地更新。[项目地址](https://github.com/ToutyRater/V2Ray-SiteDAT)
+- 经测试，动态多端口功能并不能有效提高对 GFW 的欺骗，故将该功能设置为默认关闭的状态。
+
 ## 特别说明
 
 也可以先查看下本仓库的[wiki](https://github.com/leitbogioro/v2ray.fun/wiki)
